@@ -8,6 +8,13 @@ The system monitors API traffic to extract behavioral signatures, detects anomal
 
 Built using Python with scikit-learn for machine learning pipelines (Isolation Forest, Random Forest, DBSCAN), pandas for data processing, and Plotly for visualization. Network traffic analysis implements feature engineering on packet statistics, protocol data, and timing patterns. API behavioral analysis uses clustering algorithms to identify client fingerprints and anomaly scoring based on authentication patterns, rate limits, and parameter consistency. Databases used: CICIDS2017, MITRE ATT&CK, OWASP API Security Top 10, CIC-DDoS2019.
 
+---
+
+Visualizations and full code may not partially rendered here. Please use the 'Open in Colab' or the following link of the full code blocks to view the full analysis and results.
+
+**nbviewer Link:** https://nbviewer.org/github/SamiraSamrose/Adaptive-API-zero-trust-engine-with-ML-driven-anomaly-detection/blob/main/Adaptive_API_zero_trust_engine_with_ML_driven_anomaly_detection.ipynb
+
+---
 
 ## Technology Stack
 
